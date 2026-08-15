@@ -1,4 +1,3 @@
-# inventory-stockout-risk-prediction
 # Inventory Stockout Risk Prediction
 
 A machine learning framework for predicting **short-term retail stockout risk** using inventory and demand data. This project combines time-series feature engineering, safety-stock threshold analysis, and multiple classification models to identify store–product combinations at risk of stockout.
